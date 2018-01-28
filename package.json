@@ -1,0 +1,11 @@
+{
+  "name": "distance",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "node-geo-distance": "^1.2.0",
+    "node-geocoder": "^3.21.1",
+    "node-where": "^1.1.0"
+  }
+}
